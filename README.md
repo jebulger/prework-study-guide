@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-The guide can be opened up in a web browser. Its a single page; all the notes are labeled and can be reviewed in any order. If you need help on what to study first, open up the console to see a suggestion.The console can be reached on Windows by right clicking on the page and selecting inspect or pressing F-12. On Mac, the console can be reached by pressing command and clicking on the page, or holding command, shift, and I all at once.
+The guide can be opened up in a web browser. Its a single page; all the notes are labeled and can be reviewed in any order. If you need help on what to study first, open up the console to see a suggestion.The console can be reached on Windows by right clicking on the page and selecting inspect or pressing F-12. On Mac, the console can be reached by pressing down the command button, shift, and I all at once.
 
 ## Credits
 
